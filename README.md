@@ -1,16 +1,25 @@
-## Hi there 👋
+## Opa
 
-<!--
-**ogustafig/ogustafig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  <img src="https://i.pinimg.com/originals/ba/ce/d4/baced4bf20d0c068c5138399c6d02f9a.gif" width="250">
+</p>
 
-Here are some ideas to get you started:
+- 🔭 Focando em backend
+- 🌱 Estudando Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img style="margin-right:10px;" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img style="margin-right:10px;" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img style="margin-right:10px;" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img style="margin-right:10px;" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img style="margin-right:10px;" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+<br>
+
+<div> 
+  <a href="https://www.linkedin.com/in/gustavo-figueiredo-de-oliveira-bb672716a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
